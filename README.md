@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://faytonn-portfolio.vercel.app"><img src="./assets/btn-portfolio.svg" alt="Portfolio" height="36"></a>
   <a href="https://linkedin.com/in/fativali"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="36"></a>
-  <a href="https://faytonn-portfolio.vercel.app/FatimaValiyeva_CV.pdf"><img src="./assets/btn-cv.svg" alt="CV" height="36"></a>
   <a href="mailto:fatimavaliyeva0704@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="36"></a>
 </p>
 
