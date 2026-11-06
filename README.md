@@ -29,4 +29,3 @@
   <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/faytonn/faytonn/output/snake-dark.svg" width="100%">
 </picture>
 
-<p align="center"><sub>Most of my work lives in private repos.</sub></p>
